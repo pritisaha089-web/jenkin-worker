@@ -1,2 +1,2 @@
-FROM hshar/weapp
+FROM hshar/webapp
 ADD ./index.html /var/www/html
